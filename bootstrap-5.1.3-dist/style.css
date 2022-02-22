@@ -8,6 +8,7 @@
     box-shadow: 5px 5px 10px #FF589B;
     border-radius: 10px;
 } */
+
 .second{
     margin-top: 200px;
     box-shadow: 5px 5px 10px #FF589B;
@@ -38,6 +39,14 @@
 /* .col{
     margin-bottom: 70px;
 } */
+.bu{
+    background-image: linear-gradient(to bottom, #b16182 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 25px;
+    cursor: pointer;
+}
 .buy{
     background-image: linear-gradient(to bottom, #b16182 0%, #FF136F 100%);
     color: #fff;
