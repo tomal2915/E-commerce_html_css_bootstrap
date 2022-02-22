@@ -66,3 +66,9 @@
 .card-body{
     height: 150px;
 }
+
+.bar{
+    background-color: #FF136F;
+    border: none;
+    padding: 1px;
+}
